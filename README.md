@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Ayushi Nanda</h1>
-<h3 align="center">Exploring !!</h3>
+<h3 align="center">Work for my goal until I achieve them !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushinanda&label=Profile%20views&color=0e75b6&style=flat" alt="ayushinanda" /> </p>
 
@@ -7,15 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@ayushinanda@9" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushinanda@9?logo=twitter&style=for-the-badge" alt="@ayushinanda@9" /></a> </p>
 
-- 🔭 I’m currently working on **....**
-
 - 🌱 I’m currently learning **everything possible**
 
-- 👯 I’m looking to collaborate on **...**
-
 - 🤝 I’m looking for help with **........**
-
-- 📝 I regularly write articles on [...](...)
 
 - 💬 Ask me about **DSA NLP Politics .**
 
