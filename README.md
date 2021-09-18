@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushinanda" alt="ayushinanda" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayushinanda@9" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushinanda@9?logo=twitter&style=for-the-badge" alt="@ayushinanda@9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AyushiNanda9" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushinanda@9?logo=twitter&style=for-the-badge" alt="@ayushinanda@9" /></a> </p>
 
 - 🌱 I’m currently learning **everything possible**
 
