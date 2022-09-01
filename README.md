@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/AyushiNanda9" target="blank"><img src="https://img.shields.io/twitter/follow/@ayushinanda@9?logo=twitter&style=for-the-badge" alt="@ayushinanda@9" /></a> </p>
 
-- 🌱 I’m currently exploring **cloud Architecture **
+- 🌱 I’m currently exploring **Cloud Architecture**
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **DSA Machine Learning Devops Cloud and Politics  .**
+- 💬 Ask me about **DSA Machine Learning Devops Cloud and Politics .**
 
 - 📫 How to reach me **ayushinanda553@gmail.com**
 
-- 📄 Know about my experiences ** Cisco Boost 2.0 Women in Cybersecurity **
+- 📄 Know about my experiences **Cisco Boost 2.0 Women in Cybersecurity **
 
 - ⚡ Fun fact **loves to eat and explore!**
 
