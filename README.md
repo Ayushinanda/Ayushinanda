@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayushinanda553@gmail.com**
 
-- 📄 Know about my experiences **Cisco Boost 2.0 Women in Cybersecurity **
+- 📄 Know about my experiences **Cisco Boost 2.0 Women in Cybersecurity**
 
 - ⚡ Fun fact **loves to eat and explore!**
 
